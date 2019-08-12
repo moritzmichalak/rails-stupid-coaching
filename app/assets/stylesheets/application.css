@@ -13,3 +13,31 @@
  *= require_tree .
  *= require_self
  */
+#btn {
+  background-color: #0066ff;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+  border: none;
+  color: white;
+  padding: 8px 16px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 10px;
+  cursor: pointer;
+  margin-left: 0px;
+}
+
+#insert {
+  padding: 8px 16px;
+  font-size: 10px;
+  margin-right: 0px;
+}
+
+h1 {
+  font-family: "Arial", sans-serif
+}
+
+p {
+ font-family: "Arial", sans-serif
+}
